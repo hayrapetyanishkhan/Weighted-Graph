@@ -76,6 +76,5 @@ class Graph{
                          std::stack<int>& st) const;
     };
 
-#include "graph.cpp"
 
 #endif
